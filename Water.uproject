@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		},
-		{
 			"Name": "VirtualHeightfieldMesh",
 			"Enabled": true
 		}
